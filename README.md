@@ -1,3 +1,13 @@
+## ES6
+
+[01](https://app.yinxiang.com/fx/8ef7703e-7732-41a8-8e15-082848f5c4a2)
+
+[02箭头函数](https://app.yinxiang.com/fx/2946a057-34d2-4eee-99df-87986d6b2ce0)
+
+[03类class](https://app.yinxiang.com/fx/2eb691c3-dff1-4dc3-a5ae-22d4dc677d05)
+
+[04异步与promise](https://app.yinxiang.com/fx/4e03b294-2a49-4d66-b9e5-f78a6092f974)
+
 ## React
 
 [01-ES6中class关键字的使用](https://app.yinxiang.com/fx/5595e15f-9a9c-4826-98ad-2f436d7ca325)
