@@ -1,12 +1,30 @@
 ## ES6
 
-[01](https://app.yinxiang.com/fx/8ef7703e-7732-41a8-8e15-082848f5c4a2)
+[01 ES6语法](https://app.yinxiang.com/fx/8ef7703e-7732-41a8-8e15-082848f5c4a2)
 
 [02箭头函数](https://app.yinxiang.com/fx/2946a057-34d2-4eee-99df-87986d6b2ce0)
 
 [03类class](https://app.yinxiang.com/fx/2eb691c3-dff1-4dc3-a5ae-22d4dc677d05)
 
 [04异步与promise](https://app.yinxiang.com/fx/4e03b294-2a49-4d66-b9e5-f78a6092f974)
+
+## VUE
+
+[01基本指令](https://app.yinxiang.com/shard/s57/nl/20999591/0944e85c-ff79-41ab-a32c-cb26d81bf508/)
+
+[02 监听器、计算属性、自定义指令、vue-resource、vue-set](https://app.yinxiang.com/shard/s57/nl/20999591/7d13bf00-c498-4140-a87b-075ec8fab92e/)
+
+[03 组件、插槽](https://app.yinxiang.com/shard/s57/nl/20999591/2dab085d-98fc-431f-9f6f-0a7a1dd71a06/)
+
+[04 生命周期](https://app.yinxiang.com/shard/s57/nl/20999591/b6c1d751-dfad-4b51-8157-e5e7387f4bfa/)
+
+[05 组件之间的通信](https://app.yinxiang.com/shard/s57/nl/20999591/2dd95c9c-26cf-4ef4-b346-6c91f326f0aa/)
+
+[06-1 vue-router](https://app.yinxiang.com/shard/s57/nl/20999591/c676fc61-0ee3-4cb7-a2a6-032ab40cb5be/)
+
+[06-2 vue-router脑图](https://app.yinxiang.com/shard/s57/nl/20999591/f865922c-f3e0-4c58-af21-8fe35428a898/)
+
+[07 vue-cli3](https://app.yinxiang.com/shard/s57/nl/20999591/4b7384ea-cabc-4ccf-93cf-d713d2be7fdd/)
 
 ## React
 
